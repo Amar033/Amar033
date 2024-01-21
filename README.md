@@ -1,6 +1,6 @@
 
 
-[![Twitter](https://images.wondershare.com/repairit/aticle/2021/08/twitter-header-photo-issues-1.jpg  = 250x250)](https://x.com/Amar65266)
+
 
 ### Hi there 👋
 
