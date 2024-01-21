@@ -1,4 +1,4 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Me)](https://twitter.com/Amar65266)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Amar65266)](https://twitter.com/Amar65266)
 
 
 
