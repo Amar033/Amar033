@@ -1,4 +1,4 @@
-[Twitter](https://x.com/Amar65266)
+![Twitter](https://x.com/Amar65266)
 
 ### Hi there 👋
 
