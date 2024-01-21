@@ -1,5 +1,5 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40Amar65266)](https://twitter.com/Amar65266)
-[![Linked in URL](https://img.icons8.com/?size=50&id=8808&format=png?style=social&label=Follow%20%40Amar65266)](https://twitter.com/Amar65266)
+[![Twitter URL](https://img.shields.io/twitter/follow/Amar65266)](https://twitter.com/Amar65266)
+[![Linked in URL](https://img.shields.io/instagram/follow/_am4rr._?style=social&label=Follow%20%40Amar65266)](https://twitter.com/Amar65266)
 
 
 
