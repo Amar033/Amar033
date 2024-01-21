@@ -6,7 +6,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Nothing🫠
+- 🔭 I’m currently working on [MiniProject](https://github.com/Amar033/Miniproj_s5)
 - 🌱 I’m currently learning Machine learning 
 - 🤔 I’m looking for help with Machine learning, Opencv and natural language processing 
 - 💬 Ask me about nothing pls I'm still new 😂
