@@ -1,4 +1,4 @@
-[link](x.com/Amar65266)
+[link](https://x.com/Amar65266)
 
 ### Hi there 👋
 
