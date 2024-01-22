@@ -9,5 +9,6 @@
 
 ### More about me.
   I am currently a student and focusing  mostly on AI and Datascience.
-  #### Languages I am confident in 
+  
+
 
