@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning Machine learning
 - 🦩 Current Goals: Get things done 🌩️
 
->“Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest.<br> Don't be preoccupied with a single spot. See everything in it's entirety... effortlessly. That is what it means to truly "see.”
-― Takehiko Inoue
+>“Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest.<br> Don't be preoccupied with a single spot. See everything in it's entirety... effortlessly. That is what it means to truly "see.”<br>― Takehiko Inoue
 
 ### More about me.
   I am currently a student and focusing  mostly on AI and Datascience.
