@@ -1,6 +1,6 @@
 [![Twitter URL](https://img.shields.io/twitter/follow/Amar65266)](https://twitter.com/Amar65266)
 
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm AMAR!
 
 **Aspiring Machine Learning Engineer | 4th-year B.Tech in AI & Data Science**
 
