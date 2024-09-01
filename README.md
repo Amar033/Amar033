@@ -25,7 +25,7 @@ I'm a passionate student developer with a keen interest in Machine Learning, Dat
 
 ## 📂 Featured Projects
 
-- **[Mini Project](https://github.com/Amar033/Miniproj_s5)**: A music player app that reccomends music based on emotion of the user. [Dart, App Development]
+- **[Emotify](https://github.com/Amar033/Emotify)**: A music player app that reccomends music based on emotion of the user. [Dart, App Development]
 
 ---
 
