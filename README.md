@@ -16,7 +16,7 @@ Building **practical, system-level AI tools** — not just training models, but 
 
 ## 🚀 About Me
 
-<img align="right" alt="Ippo Training" width="400" src="https://i.pinimg.com/originals/a3/93/09/a39309a1b006943b6f2c03c80a9c3e3d.gif">
+<img align="right" alt="Gojo" width="400" src="[https://i.pinimg.com/originals/a3/93/09/a39309a1b006943b6f2c03c80a9c3e3d.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif)">
 
 ```python
 class AIEngineer:
@@ -130,16 +130,16 @@ An experimental system treating conversational context as versioned, structured 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amar65266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar65266&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar65266&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ama033&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar65266&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar033&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="100%"/>
 </div>
 
 ---
