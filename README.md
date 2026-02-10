@@ -16,7 +16,7 @@ Building **practical, system-level AI tools** — not just training models, but 
 
 ## 🚀 About Me
 
-<img align="right" alt="Gojo" width="400" src="[https://i.pinimg.com/originals/a3/93/09/a39309a1b006943b6f2c03c80a9c3e3d.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif)">
+<img align="right" alt="Gojo" width="400" src="[[https://i.pinimg.com/originals/a3/93/09/a39309a1b006943b6f2c03c80a9c3e3d.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif)">
 
 ```python
 class AIEngineer:
