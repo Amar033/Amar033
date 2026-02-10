@@ -16,7 +16,7 @@ Building **practical, system-level AI tools** — not just training models, but 
 
 ## 🚀 About Me
 
-<img align="right" alt="Gojo" width="400" src="([https://i.pinimg.com/originals/a3/93/09/a39309a1b006943b6f2c03c80a9c3e3d.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif))(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif)">
+<img align="right" alt="Gojo" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJwaGU1azI3eDlyZnR2ZXh2enB4OGR0OTBmM2Y3MDUzd3R1cGx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUQcpBDGffgVrWzCUg/giphy.gif">
 
 ```python
 class AIEngineer:
@@ -135,7 +135,7 @@ An experimental system treating conversational context as versioned, structured 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ama033&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar033&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
@@ -199,7 +199,7 @@ Personal Growth:
 ## 🥊 Beyond Code
 
 <div align="left">
-<img align="right" width="350" src="https://64.media.tumblr.com/ad614821e0a0fa8c7af924a096363193/tumblr_p5dhx7zdCb1wn2b96o1_540.gifv" alt="Ippo Training"/>
+<img align="right" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHRpZGtlNDJ1MGFtdzJzcm02dDhtY2cyaHRxY29vaXRsM2U0cTJ4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TzIjfge9zmYIY9NF0L/giphy.gif" alt="Ippo Training"/>
 
 ### 🎌 Anime Enthusiast
 Currently watching **Hajime no Ippo** — because building AI systems requires the same relentless dedication as becoming a champion boxer. 
