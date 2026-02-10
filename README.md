@@ -243,6 +243,6 @@ I'm always open to discussing:
 ![Profile Views](https://komarev.com/ghpvc/?username=amar033&color=blueviolet&style=for-the-badge)
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
+<!--img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
 
 </div>
