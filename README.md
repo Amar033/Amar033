@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Amar+%F0%9F%91%8B;AI+Engineer+%7C+Building+Real+AI+Systems;LLMs+%E2%80%A2+Agents+%E2%80%A2+Developer+Tools" alt="Typing SVG" />
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35" width="100%"/>
+<!--img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <!-- Social Links -->
 [![Twitter Follow](https://img.shields.io/twitter/follow/Amar65266?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white)](https://twitter.com/Amar65266)
