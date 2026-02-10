@@ -1,23 +1,22 @@
 <div align="center">
 
-<!-- Animated Header with Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Amar+%F0%9F%91%8B;AI+Engineer+%7C+Building+Real+AI+Systems;LLMs+%E2%80%A2+Agents+%E2%80%A2+Developer+Tools" alt="Typing SVG" />
+# 👋 Hey, I'm Amar
 
-<!-- Animated Banner -->
-<!--img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=35" width="100%"/>
+**AI Engineer | Machine Learning • LLM Systems • Applied AI**
 
-<!-- Social Links -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/Amar65266?logo=twitter&style=for-the-badge&color=1DA1F2&logoColor=white)](https://twitter.com/Amar65266)
+Building **practical, system-level AI tools** — not just training models, but designing how AI actually *works* in real environments.
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Amar65266?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Amar65266)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar033)
-[![GitHub Followers](https://img.shields.io/github/followers/amar033?logo=github&style=for-the-badge&color=171515&logoColor=white)](https://github.com/amar033)
+[![GitHub Followers](https://img.shields.io/github/followers/Amar65266?logo=github&style=for-the-badge&color=171515&logoColor=white)](https://github.com/Amar65266)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWRzOThmejhoa3V0M3FhbDE1aDBuanRxZ2UwYjYycm5uMXQ0bmlnNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/9gE7yOCOik3ZELpens/giphy.gif">
-
 ## 🚀 About Me
+
+<img align="right" alt="Ippo Training" width="400" src="https://i.pinimg.com/originals/a3/93/09/a39309a1b006943b6f2c03c80a9c3e3d.gif">
 
 ```python
 class AIEngineer:
@@ -48,22 +47,23 @@ I'm focused on building **practical, system-level AI tools** — not just traini
 
 My sweet spot is at the intersection of **Machine Learning, Large Language Models, developer tooling, and AI infrastructure**. I believe in breaking down complex systems, rebuilding them from first principles, and pushing them beyond their original design.
 
-> *"Preoccupied with a single leaf, you won't see the tree. Preoccupied with a single tree, you'll miss the forest. See everything in its entirety — effortlessly."* — **Takehiko Inoue** (Vagabond)
+> *"Preoccupied with a single leaf, you won't see the tree. Preoccupied with a single tree, you'll miss the forest. See everything in its entirety — effortlessly."*  
+> — **Takehiko Inoue** (Vagabond)
 
 <br clear="right"/>
 
 ---
 
-## 🔭 Featured Projects
+## 🎯 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 [Blonde-Code](https://github.com/amar033/blonde-code)
+### 🎯 [Blonde-Code](https://github.com/Amar65266/blonde-code)
 **Terminal-first AI coding assistant**
 
-A transparent, controllable AI agent that goes beyond chat-style interactions. Built to explore how agents reason, plan, and interact with development tools.
+A transparent, controllable AI agent that goes beyond chat-style interactions. Built to explore how agents reason, plan, and interact with development tools. Currently in active development as a production-ready open-source coding agent.
 
 **Key Features:**
 - 🧠 Advanced agent reasoning & planning
@@ -71,12 +71,12 @@ A transparent, controllable AI agent that goes beyond chat-style interactions. B
 - 🔍 Full transparency & control
 - 💻 Composable architecture
 
-`Python` `LLMs` `Agent Systems` `CLI`
+`TypeScript` `LLMs` `Agent Systems` `CLI`
 
 </td>
 <td width="50%">
 
-### 🧬 [getContext](https://github.com/amar033/getcontext)
+### 🧬 [getContext](https://github.com/Amar65266/getcontext)
 **Git-inspired LLM context manager**
 
 An experimental system treating conversational context as versioned, structured data. Enables recursive context building and cross-session memory.
@@ -130,16 +130,16 @@ An experimental system treating conversational context as versioned, structured 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amar65266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar65266&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amar033&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar65266&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amar033&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar65266&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="100%"/>
 </div>
 
 ---
@@ -198,7 +198,8 @@ Personal Growth:
 
 ## 🥊 Beyond Code
 
-<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxcHRicnF4OWFsMzEydm5lNjg1OHg0eXYweTBzdzQ5bjA2dGlqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvTvFbe0bnNVjhq0MB/giphy.gif"/>
+<div align="left">
+<img align="right" width="350" src="https://64.media.tumblr.com/ad614821e0a0fa8c7af924a096363193/tumblr_p5dhx7zdCb1wn2b96o1_540.gifv" alt="Ippo Training"/>
 
 ### 🎌 Anime Enthusiast
 Currently watching **Hajime no Ippo** — because building AI systems requires the same relentless dedication as becoming a champion boxer. 
@@ -210,6 +211,8 @@ Every setback is training. Every failure is a lesson. Keep moving forward. 🥊
 - **Build from first principles**
 - **If it feels like magic, understand it**
 - **Ship > Perfect**
+
+</div>
 
 <br clear="right"/>
 
@@ -240,9 +243,6 @@ I'm always open to discussing:
 
 **Building AI systems that matter, one commit at a time** ⚡
 
-![Profile Views](https://komarev.com/ghpvc/?username=amar033&color=blueviolet&style=for-the-badge)
-
-<!-- Footer Wave -->
-<!--img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Amar65266&color=blueviolet&style=for-the-badge)
 
 </div>
