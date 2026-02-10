@@ -198,7 +198,7 @@ Personal Growth:
 
 ## 🥊 Beyond Code
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR5ZzBxYnN4OWI0bHo4bnRqOXB3M2plYzFiZ2s4ZnBzcjRsZXE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlMPcbD4jdARjRC/giphy.gif"/>
+<img align="right" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUxcHRicnF4OWFsMzEydm5lNjg1OHg0eXYweTBzdzQ5bjA2dGlqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvTvFbe0bnNVjhq0MB/giphy.gif"/>
 
 ### 🎌 Anime Enthusiast
 Currently watching **Hajime no Ippo** — because building AI systems requires the same relentless dedication as becoming a champion boxer. 
