@@ -130,18 +130,48 @@ An experimental system treating conversational context as versioned, structured 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  
+<!-- GitHub Stats with Retries -->
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+</picture>
+
+<!-- Top Languages with Retries -->
+<picture>
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amar033&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  
+<!-- Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Amar033&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amar033&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" width="100%"/>
-</div>
+  
+<!-- Activity Graph -->
+[![Amar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Amar033&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
 ---
 
 ## 🎯 Current Focus Areas
