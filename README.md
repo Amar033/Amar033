@@ -6,9 +6,9 @@
 
 Building **practical, system-level AI tools** — not just training models, but designing how AI actually *works* in real environments.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Amar65266?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Amar65266)
+[![X Follow](https://img.shields.io/twitter/follow/Amar65266?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/Amar65266)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amar033)
-[![GitHub Followers](https://img.shields.io/github/followers/Amar65266?logo=github&style=for-the-badge&color=171515&logoColor=white)](https://github.com/Amar65266)
+[![GitHub Followers](https://img.shields.io/github/followers/Amar033?logo=github&style=for-the-badge&color=171515&logoColor=white)](https://github.com/Amar65266)
 
 </div>
 
