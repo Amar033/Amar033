@@ -132,30 +132,11 @@ An experimental system treating conversational context as versioned, structured 
 <div align="center">
   
 <!-- GitHub Stats with Retries -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-</picture>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amar033&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amar033&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
 
-<!-- Top Languages with Retries -->
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amar033&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</picture>
 
 </div>
 
